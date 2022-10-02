@@ -1,3 +1,3 @@
 # Timeseries Analysis With Covid Data. 
 ==============================================================
-Predicting No. infections with LSTM (using Pytorch) and Preprocessing the data.
+Preprocessing the data and Predicting Number of daily infections with LSTM (using Pytorch).
